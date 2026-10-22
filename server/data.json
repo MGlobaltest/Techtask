@@ -1,0 +1,162 @@
+[
+  {
+    "id": "agent-tanatat",
+    "name": "Tanatat Pornthepsiripong",
+    "role": "Field Commissioning & EV Specialist",
+    "type": "onsite",
+    "avatarColor": "#ea580c",
+    "hairColor": "#1e293b",
+    "email": "tanatat.por@mglobalsourcing.net",
+    "calendarUrl": "",
+    "status": "onsite",
+    "currentRoom": "workshop",
+    "currentTask": {
+      "title": "Commissioning - SCG INTERNATIONAL - Other",
+      "category": "onsite",
+      "ticketId": "6986b05f",
+      "customer": "SCG INTERNATIONAL",
+      "inverterModel": "EV Charger System (SCG Site)",
+      "faultCode": "Support Commissioning EV Charger",
+      "location": "https://maps.app.goo.gl/yzmYc97rsrQAAPmR9",
+      "meetUrl": "meet.google.com/das-jiuo-hpx",
+      "priority": "High",
+      "startTime": "2026-10-26T03:00:00.000Z",
+      "endTime": "2026-10-26T10:00:00.000Z",
+      "notes": "Support commissioning EV charger\n\nTicketID=6986b05f"
+    },
+    "stats": {
+      "completedToday": 4,
+      "avgResolutionTime": "1h 10m"
+    }
+  },
+  {
+    "id": "agent-2",
+    "name": "Sarah Miller",
+    "role": "Online Support Lead (Tier 2)",
+    "type": "online",
+    "avatarColor": "#0284c7",
+    "hairColor": "#78350f",
+    "calendarUrl": "",
+    "status": "online",
+    "currentRoom": "online_support",
+    "currentTask": {
+      "title": "Remote Case #ON-9421: Live Inverter Telemetry Diagnostic & Grid Disconnect",
+      "category": "online",
+      "ticketId": "CASE-9421",
+      "inverterModel": "EcoPower 5.5kW Micro-Inverter string",
+      "faultCode": "Grid Frequency Out of Range (51.2Hz)",
+      "priority": "Urgent",
+      "startTime": "2026-09-13T03:25:58.388Z",
+      "endTime": "2026-09-13T04:25:58.388Z",
+      "notes": "Customer plant in Texas seeing recurring trip. Adjusting remote ride-through frequency parameter via web portal."
+    },
+    "stats": {
+      "completedToday": 8,
+      "avgResolutionTime": "18m"
+    }
+  },
+  {
+    "id": "agent-3",
+    "name": "Kenji Sato",
+    "role": "Field Service Dispatch Tech",
+    "type": "field",
+    "avatarColor": "#16a34a",
+    "hairColor": "#1e293b",
+    "calendarUrl": "",
+    "status": "field",
+    "currentRoom": "field_dispatch",
+    "currentTask": {
+      "title": "Field Prep: Commercial 50kW Inverter Replacement & Safety Inspection",
+      "category": "field",
+      "ticketId": "FIELD-309",
+      "inverterModel": "MegaVolt 50kW Commercial 3-Phase",
+      "faultCode": "Ground Fault / Insulation Resistance < 50kOhm",
+      "priority": "High",
+      "startTime": "2026-09-13T03:30:58.388Z",
+      "endTime": "2026-09-13T04:30:58.388Z",
+      "notes": "Packing replacement MPPT surge arrestors, arc-flash gear, and high-voltage insulation tester."
+    },
+    "stats": {
+      "completedToday": 2,
+      "avgResolutionTime": "1h 15m"
+    }
+  },
+  {
+    "id": "agent-4",
+    "name": "Elena Rostova",
+    "role": "Inverter QA & Bench Tester",
+    "type": "onsite",
+    "avatarColor": "#d97706",
+    "hairColor": "#b45309",
+    "calendarUrl": "",
+    "status": "onsite",
+    "currentRoom": "workshop",
+    "currentTask": {
+      "title": "Bench Calibration: High-Efficiency DC-AC Conversion Waveform Check",
+      "category": "onsite",
+      "ticketId": "BENCH-882",
+      "inverterModel": "SineWave Pro 3.6kW Inverter",
+      "faultCode": "THD (Total Harmonic Distortion) > 4.5%",
+      "priority": "Medium",
+      "startTime": "2026-09-13T03:00:58.388Z",
+      "endTime": "2026-09-13T04:00:58.388Z",
+      "notes": "Running pure sine wave harmonic analysis under 80% resistive load at test bench."
+    },
+    "stats": {
+      "completedToday": 4,
+      "avgResolutionTime": "35m"
+    }
+  },
+  {
+    "id": "agent-5",
+    "name": "David Park",
+    "role": "Technical Incident Coordinator",
+    "type": "meeting",
+    "avatarColor": "#9333ea",
+    "hairColor": "#0f172a",
+    "calendarUrl": "",
+    "status": "meeting",
+    "currentRoom": "war_room",
+    "currentTask": {
+      "title": "Shift Handover & Critical Solar Farm Inverter Incident Review",
+      "category": "meeting",
+      "ticketId": "SYNC-102",
+      "inverterModel": "Cluster Utility Inverters (10x 100kW)",
+      "faultCode": "Sync Conference",
+      "priority": "Medium",
+      "startTime": "2026-09-13T03:35:58.388Z",
+      "endTime": "2026-09-13T04:05:58.388Z",
+      "notes": "Reviewing weekend dispatch schedules and emergency spare inverter inventory count."
+    },
+    "stats": {
+      "completedToday": 5,
+      "avgResolutionTime": "25m"
+    }
+  },
+  {
+    "id": "agent-6",
+    "name": "Nadia Rayan",
+    "role": "Tier 1 Online Support Specialist",
+    "type": "online",
+    "avatarColor": "#0d9488",
+    "hairColor": "#475569",
+    "calendarUrl": "",
+    "status": "break",
+    "currentRoom": "lounge",
+    "currentTask": {
+      "title": "Scheduled Coffee & Rest Break",
+      "category": "break",
+      "ticketId": "REST-01",
+      "inverterModel": "N/A",
+      "faultCode": "On Break",
+      "priority": "Low",
+      "startTime": "2026-09-13T03:30:58.388Z",
+      "endTime": "2026-09-13T03:50:58.388Z",
+      "notes": "Taking 20-min recharge at the team coffee lounge."
+    },
+    "stats": {
+      "completedToday": 7,
+      "avgResolutionTime": "12m"
+    }
+  }
+]
